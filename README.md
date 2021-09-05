@@ -23,3 +23,6 @@ The app is completely capable of carrying out a beauty try-on on a live video si
 This app would perform a facial try-on on a live video simulation. Using data science and image processing, it can track facial details. Identify the problems in users' faces and recommend appropriate items to treat them, making use of artificial intelligence. Moreover, this is an online marketplace to buy beauty products which are suitable to you with trying AR and depend on the previous user experience. This can be extended to any mobile platform and separate hardware produced for try-on in physical stores like cosmetic showrooms and beauty salons. 
 
 Face foundations based on skin tone, lip-gloss and lipstick colors focused on lip shape, blusher types based on face form, hairstyles determined on face shape and hair type, and hair color based on the overall image are some of the options available.
+---
+## UI Design (Sample)
+![](https://github.com/HashanEranga/Project_GlowMe/blob/main/UI%20Components/glowMe.PNG)
